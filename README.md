@@ -1,2 +1,2 @@
 # testing-for-me-123
-First repository
+This is my first repository in an attempt to figure out how things are done here at GitHub.
